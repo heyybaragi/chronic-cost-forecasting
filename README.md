@@ -6,11 +6,9 @@ condition profile and prior spending, then sorts them into a Low, Medium, or
 High risk tier. Built to reflect the kind of prospective risk modeling payer
 analytics teams use to prioritize care management outreach.
 
-**Live dashboard:** [Click Here!](https://chronic-disease-cost-forecasting.streamlit.app)
+**Live dashboard:** (https://chronic-disease-cost-forecasting.streamlit.app)
 
-**One-line pitch:** A chronic disease cost forecasting model that segments
-patients into cost trajectories, giving care teams a way to prioritize
-intervention.
+**One-line pitch:** A prospective risk model that predicts next-year Medicare beneficiary costs and sorts patients into actionable risk tiers for care management.
 
 ## Why this project
 
